@@ -7,7 +7,7 @@ A small python programm that creates an icon on the taskbar, allowing you to shu
 Run this command to install needed packages:
 
 ```
-sudo apt install ffmpeg python3 python3-pip libasound2-dev
+sudo apt install ffmpeg python3 python3-pip libasound2-dev libxcb-xinerama0
 ```
 
 Run this command to install needed python packages:
