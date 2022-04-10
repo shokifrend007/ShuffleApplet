@@ -1,0 +1,20 @@
+{
+    "comment": "text shwon when hovering the icon",
+    "tooltip": "ShuffleApplet",
+    
+    "comment1": "relative or absolute path to a folder with all the music to be shuffled",
+    "musicFolder": "music",
+
+    "comment1.5": "wether to start playing imedeatly when the app is started",
+    "start": false,
+    
+    "comment2": "interval to check if the song has ended; setting it too low can cause cpu load",
+    "checkInterval": 0.1,
+
+    "comment2.5": "volume in db; 0=normal volume",
+    "volume": -20,
+
+    "comment3": "command used to open the audio file when clicking on the file name",
+    "comment4": "the first arg will be the relative or absolute file path",
+    "open": "vlc"
+}
