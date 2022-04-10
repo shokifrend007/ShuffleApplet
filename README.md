@@ -46,7 +46,7 @@ Look at the comments in `config.json` for more info.
 
 ## Pro tip
 
-Set up multiple instances for different playlist/folder and add them all to the startup applications.
+Set up multiple instances for different playlists/folders and add them all to the startup applications.
 
 ## License
 
