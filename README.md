@@ -28,6 +28,18 @@ chmod u+x main.py
 sudo mv ShuffleApplet /opt/
 ```
 
+Move your music into the music folder **or** change the `config.json` to point to your music folder:
+
+```
+mv ~/Music/* /opt/ShuffleApplet/music/
+# or change it in config.json
+"musicFolder": "~/Music/",
+```
+
+(optional) Replace `logo.png` and `logo-active.png` with your icons.
+
+ 
+
 Test it!
 
 ```
